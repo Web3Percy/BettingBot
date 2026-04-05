@@ -1,1 +1,1 @@
-python betting_bot.py 
+python betting_bot.py
